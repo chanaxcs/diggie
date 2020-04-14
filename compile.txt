@@ -1,0 +1,226 @@
+## Reddit
+151.101.1.140    redd.it
+151.101.129.140  redd.it
+151.101.49.140   i.redd.it
+
+151.101.1.140    reddit.com
+151.101.193.140  reddit.com
+151.101.129.140  reddit.com
+151.101.49.140   4x.reddit.com
+151.101.49.140   api.reddit.com
+151.101.49.140   about.reddit.com
+151.101.49.140   blog.reddit.com
+151.101.49.140   bt.reddit.com
+151.101.49.140   e.reddit.com
+151.101.49.140   en.reddit.com
+151.101.49.140   en-us.reddit.com
+151.101.49.140   forum.reddit.com
+151.101.49.140   gateway.reddit.com
+151.101.49.140   help.reddit.com
+151.101.49.140   i.reddit.com
+151.101.49.140   m.reddit.com
+151.101.49.140   nm.reddit.com
+151.101.49.140   np.reddit.com
+151.101.49.140   nsfw.reddit.com
+151.101.49.140   oauth.reddit.com
+151.101.49.140   out.reddit.com
+151.101.49.140   pay.reddit.com
+151.101.49.140   ssl.reddit.com
+151.101.49.140   test.reddit.com
+151.101.49.140   ww.reddit.com
+151.101.49.140   www.reddit.com
+151.101.49.140   old.reddit.com
+151.101.49.140   new.reddit.com
+151.101.49.140   sendbird.reddit.com
+151.101.49.140   v.redd.it
+
+192.0.79.33      redditblog.com
+192.0.79.33      www.redditblog.com
+
+151.101.193.140  redditgifts.com
+151.101.49.140   www.redditgifts.com
+
+3.215.169.224    redditmedia.com
+18.204.131.235   events.redditmedia.com
+18.205.133.15    events.redditmedia.com
+151.101.49.140   g.redditmedia.com
+199.232.9.140    i.redditmedia.com
+#151.101.129.140  pixel.redditmedia.com
+#151.101.129.140  stats.redditmedia.com
+151.101.49.140   www.redditmedia.com
+151.101.49.140   a.thumbs.redditmedia.com
+151.101.49.140   b.thumbs.redditmedia.com
+
+#151.101.129.140  redditstatic.com
+151.101.49.140  www.redditstatic.com
+
+#151.101.129.140  reddituploads.com
+151.101.49.140   i.reddituploads.com
+#151.101.129.140  www.reddituploads.com
+3.225.77.184     alb.reddit.com
+3.223.182.220    alb.reddit.com
+34.198.184.162   alb.reddit.com
+151.101.49.140   app.reddit.com
+151.101.49.140   developer.reddit.com
+151.101.49.140   player.reddit.com
+##---
+
+## Tumblr
+74.114.154.17    tumblr.com
+152.199.24.192   assets.tumblr.com
+152.199.24.192   static.tumblr.com
+74.114.154.18    vimeo.tumblr.com
+152.199.24.192   www.tumblr.com
+##---
+
+## Imgur
+151.101.44.193   imgur.com
+151.101.48.193   imgur.com
+151.101.56.193   imgur.com
+151.101.48.193   api.imgur.com
+199.232.8.193    blog.imgur.com
+151.101.48.193   blog.imgur.com
+52.206.22.38     browserevents.imgur.com
+54.164.240.173   browserevents.imgur.com
+151.101.48.193   i.imgur.com
+151.101.48.193   m.imgur.com
+151.101.48.193   p.imgur.com
+151.101.48.193   s.imgur.com
+151.101.48.193   sen.imgur.com
+52.72.227.219    stack.imgur.com
+151.101.48.193   store.imgur.com
+23.21.146.88     zrk.imgur.com
+104.16.29.34     i.stack.imgur.com
+52.1.210.71      apidocs.imgur.com
+104.16.55.111    help.imgur.com
+##---
+
+# ---------------------------------------------------
+# Vimeo
+# ---------------------------------------------------
+
+151.101.64.217    player.vimeo.com
+151.101.129.194   vimeo-hp-videos.global.ssl.fastly.net
+151.101.66.109    f.vimeocdn.com
+151.101.64.217    vimeo.com
+151.101.130.109   i.vimeocdn.com
+151.101.64.217    developer.vimeo.com
+66.6.33.149       vimeo.tumblr.com
+
+151.101.128.217  api.vimeo.com
+104.156.81.217   app.vimeo.com
+104.156.81.217   help.vimeo.com
+74.113.233.128   vimeocdn.com
+151.101.85.133   a.vimeocdn.com
+23.59.114.96     secure-c.vimeocdn.com
+151.101.85.133   prod.vimeo-video.map.fastly.net
+
+# ---------------------------------------------------
+
+#Pornhub dari pastebin 2yvmhjm05ft2gucwt
+205.185.208.142    cdn1a.limg.pornhub.phncdn.com
+66.254.114.41      nl.pornhub.com
+#cdn2b.video.pornhub.phncdn.com
+66.254.114.41      de.pornhub.com
+72.21.81.246       i1.cdn2b.image.pornhub.phncdn.com
+#cs.pornhub.phncdn.com
+69.16.175.42       ci1.pornhub.phncdn.com
+66.254.114.41      cz.pornhub.com
+66.254.114.41      it.pornhub.com
+205.185.208.60     cdn-d-vid-public.pornhub.com
+104.17.27.92       feedback.pornhub.com
+66.254.114.41      fr.pornhub.com
+66.254.114.41      rt.pornhub.com
+69.16.175.42       ci2.pornhub.phncdn.com
+66.254.114.41      pt.pornhub.com
+#cv.pornhub.phncdn.com
+66.254.114.41      pl.pornhub.com
+66.254.114.42      www.pornhubselect.com
+66.254.114.41      pornhub.com
+205.185.208.60     cdn-d-static.pornhub.com
+69.16.175.42       i1.cdn2a.image.pornhub.phncdn.com
+69.16.175.42       i0.cdn2a.image.pornhub.phncdn.com
+66.254.114.41      www.pornhub.com
+66.254.114.41      jp.pornhub.com
+#cdn1.static.pornhub.phncdn.com
+66.254.114.41      es.pornhub.com
+72.21.81.246       cdn1b.static.pornhub.phncdn.com
+#cdn1a.static.pornhub.phncdn.com
+72.21.81.246       i0.cdn2b.image.pornhub.phncdn.com
+
+#CARI SENDIRI F12
+66.254.114.41   pornhub.com
+66.254.114.41   www.pornhub.com
+#phncdn
+8.253.249.251   ai.phncdn.com
+205.185.208.142 di.phncdn.com
+152.195.33.132  ci.phncdn.com
+216.18.168.25   cdn1-smallimg.phncdn.com
+205.185.208.142 cdn1d-static-shared.phncdn.com
+152.195.33.132  cw.phncdn.com
+64.210.158.70   ew.phncdn.com
+69.16.175.10    dw.phncdn.com
+152.195.33.132  cs.phncdn.com
+8.249.85.251    aw.phncdn.com
+#livecams
+207.178.0.78    m1.nsimg.net
+207.178.0.76    m2.nsimg.net
+#ads
+205.185.208.79  static.trafficjunky.com
+#gajelas
+#gstatic.com
+
+###
+#
+# unblockporn.me - hosts file for xvideos.com
+#
+###
+
+69.55.53.169   static.xvideos.com
+185.88.181.6   img.xvideos.com
+185.88.181.6   img100-321.xvideos.com
+185.88.181.6   www.xvideos.com
+185.88.181.6   xvideos.com
+89.187.164.30  cdn77-vid.xvideos-cdn.com
+185.88.181.6   flashservice.xvideos.com
+209.197.3.84   img-hw.xvideos.com
+8.240.197.251  img-l3.xvideos.com
+##img100.xvideos.com
+185.88.181.6   img100-007.xvideos.com
+185.88.181.9   img100-055.xvideos.com
+185.88.181.6   img100-135.xvideos.com
+185.88.181.9   img100-159.xvideos.com
+185.88.181.6   img100-281.xvideos.com
+185.88.181.9   img100-361.xvideos.com
+185.88.181.6   img100-376.xvideos.com
+185.88.181.9   img100-532.xvideos.com
+185.88.181.6   img100-574.xvideos.com
+185.88.181.9   img100-582.xvideos.com
+185.88.181.6   img100-616.xvideos.com
+185.88.181.9   img100-704.xvideos.com
+185.88.181.6   img100-738.xvideos.com
+185.88.181.9   img100-779.xvideos.com
+185.88.181.6   img100-870.xvideos.com
+185.88.181.9   img100-881.xvideos.com
+185.88.181.6   img100-923.xvideos.com
+152.195.19.72  www.xvideos3.com
+152.199.4.41   www.xvideos.es
+185.88.181.10  fr.xvideos.com
+185.88.181.10  it.xvideos.com
+185.88.181.10  de.xvideos.com
+8.248.67.251   static-l3.xvideos-cdn.com
+185.88.181.17  www.xvideos.red
+141.0.173.175  www.xvideos.net
+185.88.181.10  info.xvideos.com
+69.55.53.171   static.xvideos-cdn.com
+209.197.3.84   static-hw.xvideos.com
+152.195.13.88  img-egc.xvideos-cdn.com
+89.187.164.25  cdn77-pic.xvideos-cdn.com
+8.253.197.251  img-l3.xvideos-cdn.com
+209.197.3.84   img-hw.xvideos-cdn.com
+185.88.181.6   upload.xvideos.com
+#12 April 2020
+h1s2-13.xvideos-cdn.com
+h1s-hw.xvideos-cdn.com
+
+##difficult part
